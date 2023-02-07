@@ -1,0 +1,5 @@
+Nur als Info, die aktuell verwendeten Credentials fuer den OpenAI Aufruf
+Evtl. sind die Ressourcen erschöpft und man muss diese in python/mein.py anpassen
+
+API-KEY: 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
+API-ORG: org-yqLTtY3xD2oElWgXAWrALhfk
